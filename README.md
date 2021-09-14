@@ -8,10 +8,10 @@ And is my first app made with Flutter.
 
 ## Screenshots
 
-![Screenshot 1](img1.jpg)
-![Screenshot 1](img2.jpg)
-![Screenshot 1](img3.jpg)
-![Screenshot 1](img4.jpg)
+![Screenshot 1](screenshots/img1.jpg)
+![Screenshot 1](screenshots/img2.jpg)
+![Screenshot 1](screenshots/img3.jpg)
+![Screenshot 1](screenshots/img4.jpg)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
