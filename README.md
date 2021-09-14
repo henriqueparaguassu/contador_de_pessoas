@@ -1,15 +1,17 @@
 # contador_de_pessoas
 
-A new Flutter project.
+My first Flutter project.
 
-## Getting Started
+This simple app is for counting the number of people in an establishment.
+And is my first app made with Flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot 1](img1.jpg)
+![Screenshot 1](img2.jpg)
+![Screenshot 1](img3.jpg)
+![Screenshot 1](img4.jpg)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
