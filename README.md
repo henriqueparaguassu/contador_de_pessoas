@@ -4,6 +4,7 @@ My first Flutter project.
 
 This simple app is for counting the number of people in an establishment.
 And is my first app made with Flutter.
+I've used the widgets: Column, Row, Text, Button, Image, Padding, Stack and I've learned about stateful widget.
 
 
 ## Screenshots
